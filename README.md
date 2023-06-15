@@ -1,5 +1,5 @@
 # TITTLE
-Minimise the function using K map F(A,B,C)=ABC+B"C'+BC+AB' and simulate the logic diagram using verilog.
+design a combinational circuit with three inputs and one output. the output is 1 when the binary value of the inputs is less than 3. the output is 0 otherwise. implement in verilog
 # THEORY
 The K-map is a systematic way of simplifying Boolean expressions. With the help of the K-map method, we can find the simplest POS and SOP expression, which is known as the minimum expression. The K-map provides a cookbook for simplification.
 
